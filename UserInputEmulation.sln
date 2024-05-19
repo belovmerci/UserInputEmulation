@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInputEmulation", "UserInputEmulation.csproj", "{9B47D412-0668-4202-937E-B385E145412D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInputTesting", "..\UserInputTesting\UserInputTesting.csproj", "{7B171F4B-A0CC-41CE-871D-7CFAE1D0B8C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B47D412-0668-4202-937E-B385E145412D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B47D412-0668-4202-937E-B385E145412D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B47D412-0668-4202-937E-B385E145412D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B47D412-0668-4202-937E-B385E145412D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B171F4B-A0CC-41CE-871D-7CFAE1D0B8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B171F4B-A0CC-41CE-871D-7CFAE1D0B8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B171F4B-A0CC-41CE-871D-7CFAE1D0B8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B171F4B-A0CC-41CE-871D-7CFAE1D0B8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EDBF8BC-0178-4D84-B0E6-81416A195C00}
+	EndGlobalSection
+EndGlobal
